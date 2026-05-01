@@ -1,0 +1,16 @@
+# Fichiers Python compilés (inutiles sur GitHub)
+__pycache__/
+*.py[cod]
+
+# Les gros dossiers d'images (Datasets et Résultats)
+data/
+outputs/
+
+# Les gros fichiers de modèles Deep Learning
+*.pth
+*.pt
+*.h5
+
+# Environnements virtuels (au cas où)
+venv/
+env/
